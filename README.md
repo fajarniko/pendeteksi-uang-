@@ -5,4 +5,4 @@ https://www.kaggle.com/datasets/daniakhmadmaulana/citra-uang-rupiah-emisi-2022
  # Disini kelompok kami menggunakan website beroutput suara untuk mendeteksi uang 
  https://pendeteksi-uang-production.up.railway.app/
  # Website Sistem Pendeteksi Uang
-  link di atas bisa digunakan untuk semua user/pengguna khususnya untuk penyandang tunanetra karena kelompok kami membuat project ini bertujuan untuk memudahkan penyandang tunanetra agar mengetahui jenis jenis uang dengan beroutput suara.
+  link di atas bisa digunakan untuk semua user/pengguna khususnya untuk penyandang tunanetra karena kelompok kami membuat project ini bertujuan untuk memudahkan penyandang tunanetra agar mengetahui jenis jenis uang dengan beroutput suara. 
